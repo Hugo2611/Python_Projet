@@ -1,0 +1,10 @@
+Description du projet
+
+Ce projet vise à créer une API pour interagir avec une base de données SQLite Chinook.
+Les API créées avec FastAPI permettent d'accéder aux données sur les illustrations, les albums et les pistes.
+Fournit une interface pour interroger et récupérer ces informations. 
+De plus, des scripts interactifs développés à l'aide du module « Demande » sont mis à disposition de l'utilisateur.
+Ce script vous permet de saisir un nom d'artiste, 
+un identifiant d'artiste ou un identifiant d'album et de demander à l'API de renvoyer les données associées.
+L'objectif principal est la simplicité et la facilité d'utilisation avec des règles de gestion des erreurs minimales et l'esthétique de l'interface.
+La structure du projet est modulaire pour faciliter la maintenance.
